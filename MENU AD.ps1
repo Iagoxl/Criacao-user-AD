@@ -76,7 +76,7 @@ function Abrir-CriacaoUsuario {
     $comboBoxUPNSuffix.Location = [System.Drawing.Point]::new(10, 630)
     $comboBoxUPNSuffix.Size = [System.Drawing.Size]::new(350, 20)
     $comboBoxUPNSuffix.DropDownStyle = 'DropDownList'
-    $comboBoxUPNSuffix.Items.Add(ADICIONA SEU SUFFIX UPN "@DOMINIO.COM.BR)
+    $comboBoxUPNSuffix.Items.Add(ADICIONA SEU SUFFIX UPN @DOMINIO.COM.BR)
     $comboBoxUPNSuffix.SelectedIndex = 0
     $form.Controls.Add($comboBoxUPNSuffix)
 
