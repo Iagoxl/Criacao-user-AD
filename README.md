@@ -54,7 +54,7 @@ Clone este repositório:
 
 Execute o script principal no PowerShell:
 
-.nome-do-script.ps1
+nome-do-script.ps1
 
 Escolha entre:
 
@@ -68,26 +68,9 @@ Sufixos UPN (ex: @empresa.com.br)
 
 OUs (ex: OU=Usuarios,DC=empresa,DC=com,DC=br)
 
-Grupos padrões
-
-Exemplo de Execução
-
-Abrir-CriacaoUsuario
-# ou
-Abrir-GerenciarUsuario
-
-Screenshots
 
 
 
 
-Contribuições
 
-Sinta-se livre para abrir issues ou pull requests para melhorias, correções ou sugestões.
-
-Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-Desenvolvido com ❤ por [Seu Nome]
 
